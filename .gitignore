@@ -1,0 +1,5 @@
+# 不要把账号文件提交到公开仓库！
+# accounts.json
+.env
+__pycache__/
+*.pyc
